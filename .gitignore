@@ -14,5 +14,5 @@ build
 !/NBA Data Preprocessing/task/
 /NBA Data Preprocessing/task/*
 !/NBA Data Preprocessing/task/preprocess.py
-!/NBA Data Preprocessing/task/test
-!/NBA Data Preprocessing/task/tests.py
+# !/NBA Data Preprocessing/task/test
+# !/NBA Data Preprocessing/task/tests.py
