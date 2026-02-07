@@ -17,6 +17,3 @@ build
 !/NBA Data Preprocessing/task/test
 !/NBA Data Preprocessing/task/tests.py
 
-# hide test files
-test/
-tests.py
